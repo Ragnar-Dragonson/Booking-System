@@ -1,0 +1,12 @@
+C:\Users\Ragnar\Desktop\simons work\ACW\SnippitsBusinessLogic\bin\Debug\SnippitsBusinessLogic.dll
+C:\Users\Ragnar\Desktop\simons work\ACW\SnippitsBusinessLogic\bin\Debug\SnippitsBusinessLogic.pdb
+C:\Users\Ragnar\Desktop\simons work\ACW\SnippitsBusinessLogic\obj\Debug\SnippitsBusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Ragnar\Desktop\simons work\ACW\SnippitsBusinessLogic\obj\Debug\SnippitsBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Ragnar\Desktop\simons work\ACW\SnippitsBusinessLogic\obj\Debug\SnippitsBusinessLogic.dll
+C:\Users\Ragnar\Desktop\simons work\ACW\SnippitsBusinessLogic\obj\Debug\SnippitsBusinessLogic.pdb
+E:\ACW\simons work\ACW\SnippitsBusinessLogic\bin\Debug\SnippitsBusinessLogic.dll
+E:\ACW\simons work\ACW\SnippitsBusinessLogic\bin\Debug\SnippitsBusinessLogic.pdb
+E:\ACW\simons work\ACW\SnippitsBusinessLogic\obj\Debug\SnippitsBusinessLogic.csprojResolveAssemblyReference.cache
+E:\ACW\simons work\ACW\SnippitsBusinessLogic\obj\Debug\SnippitsBusinessLogic.csproj.CoreCompileInputs.cache
+E:\ACW\simons work\ACW\SnippitsBusinessLogic\obj\Debug\SnippitsBusinessLogic.dll
+E:\ACW\simons work\ACW\SnippitsBusinessLogic\obj\Debug\SnippitsBusinessLogic.pdb
